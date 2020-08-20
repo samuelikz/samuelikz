@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Samuel Nunes
+### Samuel Nunes 😄
 <p align="justify"> 💬 Estudante, Graduando análise e desenvolvimento de sistemas </p>
