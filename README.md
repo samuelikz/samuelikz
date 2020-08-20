@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 Como chegar até mim: ...
+- 📫 Como chegar até mim: <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: pt_BR</script><script type="IN/Share" data-url="LINK"></script>...
 
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Estudante`
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Análise e Desenvolvimento de Sistemas`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Foco`
