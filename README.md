@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - [x] insomnia
 - [x] Vscode
 - [x] SublimeText
-- [ ] Outros
+- [x] npm
 
 -->
 ### Samuel Nunes 😄
