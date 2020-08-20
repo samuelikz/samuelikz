@@ -27,3 +27,19 @@ Here are some ideas to get you started:
 ### Samuel Nunes 😄
 <p align="justify"> 💬 Estudante, Graduando análise e desenvolvimento de sistemas </p>
 
+### console.log("Editores")
+
+- [x] Postman
+- [x] insomnia
+- [x] Vscode
+- [x] SublimeText
+- [ ] Outros
+
+### console.log("Utilizando")
+
+- [x] Nodejs
+- [x] Rest
+- [x] javascript
+- [x] Sql
+- [x] Git
+- [ ] Outros
