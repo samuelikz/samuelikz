@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- [ ] Outros
+
 ### console.log
 
 - [x] Postman
@@ -33,7 +35,6 @@ Here are some ideas to get you started:
 - [x] insomnia
 - [x] Vscode
 - [x] SublimeText
-- [ ] Outros
 
 ### console.log("Utilizando ⚡")
 
@@ -42,4 +43,4 @@ Here are some ideas to get you started:
 - [x] javascript
 - [x] Sql
 - [x] Git
-- [ ] Outros
+
