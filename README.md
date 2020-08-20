@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### console.log
+
+- [x] Postman
+- [x] insomnia
+- [x] Vscode
+- [x] SublimeText
+- [ ] Outros
+
 -->
 ### Samuel Nunes 😄
 <p align="justify"> 💬 Estudante, Graduando análise e desenvolvimento de sistemas </p>
+
