@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Samuel Nunes 😄
 <p align="justify"> 💬 Estudante, Graduando análise e desenvolvimento de sistemas </p>
 
-### console.log("Editores")
+### console.log("Aliados 👯")
 
 - [x] Postman
 - [x] insomnia
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - [x] SublimeText
 - [ ] Outros
 
-### console.log("Utilizando")
+### console.log("Utilizando ⚡")
 
 - [x] Nodejs
 - [x] Rest
