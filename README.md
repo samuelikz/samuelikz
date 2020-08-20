@@ -1,6 +1,7 @@
-### Samuel Nunes 💻
+
 
 <!--
+### Samuel Nunes
 **samuelikz/samuelikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 📫 Como chegar até mim: ...
-
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Análista de Sistemas`
+### Samuel Nunes
+<p align="justify"> 💬 Estudante, Graduando análise e desenvolvimento de sistemas </p>
