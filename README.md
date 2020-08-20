@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - [x] insomnia
 - [x] Vscode
 - [x] SublimeText
-- [x] npm
 
 -->
 ### Samuel Nunes 😄
@@ -35,9 +34,9 @@ Here are some ideas to get you started:
 - [x] insomnia
 - [x] Vscode
 - [x] SublimeText
+- [x] npm
 
 ### console.log("Utilizando ⚡")
-- [x] npm
 - [x] Nodejs
 - [x] Rest
 - [x] javascript
