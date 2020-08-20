@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - [x] SublimeText
 
 ### console.log("Utilizando ⚡")
-
+- [x] npm
 - [x] Nodejs
 - [x] Rest
 - [x] javascript
