@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 - [x] Rest
 - [x] javascript
 - [x] Sql
-- [x] Git
+- [x] Vuejs
 
