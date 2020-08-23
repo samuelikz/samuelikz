@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 - [x] insomnia
 - [x] Vscode
 - [x] SublimeText
-- [x] npm
 
 ### console.log("Utilizando ⚡")
 - [x] Nodejs
