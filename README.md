@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 <p align="justify"> 💬 Estudante, Graduando análise e desenvolvimento de sistemas </p>
 
 ### console.log("Utilizando ⚡")
-- [x] Nodejs
-- [x] Rest
 - [x] javascript
-- [x] Sql
+- [x] Nodejs
 - [x] Vuejs
 
