@@ -28,13 +28,6 @@ Here are some ideas to get you started:
 ### Samuel Nunes 😄
 <p align="justify"> 💬 Estudante, Graduando análise e desenvolvimento de sistemas </p>
 
-### console.log("Aliados 👯")
-
-- [x] Postman
-- [x] insomnia
-- [x] Vscode
-- [x] SublimeText
-
 ### console.log("Utilizando ⚡")
 - [x] Nodejs
 - [x] Rest
