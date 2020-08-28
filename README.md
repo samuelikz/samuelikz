@@ -28,8 +28,3 @@ Here are some ideas to get you started:
 ### Samuel Nunes 😄
 <p align="justify"> 💬 Estudante, Graduando análise e desenvolvimento de sistemas </p>
 
-### console.log("Utilizando ⚡")
-- [x] javascript
-- [x] Nodejs
-- [x] Vuejs
-
