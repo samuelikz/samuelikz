@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - [x] SublimeText
 
 -->
-### Samuel Nunes 😄
+### Samuel Nunes
 <p align="justify"> Estudante,  Análise e desenvolvimento de sistemas </p>
