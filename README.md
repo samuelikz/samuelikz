@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - [x] SublimeText
 
 -->
-<h2 align="center">Oi 👋, Eu me chamo Samuel!</h2>
-<h3 align="center">Sou Estudante de Análise e desenvolvimento de sistemas</h3>
+<h4 align="center">Oi 👋, Eu me chamo Samuel!</h4>
+<h4 align="center">Sou Estudante de Análise e desenvolvimento de sistemas</h4>
 
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-nunes-057899133/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/samuel-nunes-057899133/" height="30" width="30" /></a>
-<a href="https://samuelikz.github.io/samuelikz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sitepoint.svg" alt="Samuelikz" height="30" width="30" /></a>
 </p>
+<h4 align="center">Likendin</h4>
