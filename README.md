@@ -34,9 +34,11 @@ Here are some ideas to get you started:
 - [x] JavaScript
 - [x] Html-Css
 - [x] Python
+- [x] SQL
 - [x] Nodejs
 - [x] Vuejs
 - [x] Quasar
+- [x] Seuqlize
 - [x] Materialize
 - [x] Bootstrap
 ```
