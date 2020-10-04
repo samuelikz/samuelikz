@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-nunes-057899133/)](https://www.linkedin.com/in/samuel-nunes-057899133/)
 
- <h6 align="left">Tecnologias</h6>
+ <h6 align="left">- Tecnologias</h6>
  
 ```sh
 - [x] JavaScript
