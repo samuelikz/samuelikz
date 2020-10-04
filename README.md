@@ -16,19 +16,27 @@ Here are some ideas to get you started:
 - [ ] Outros
 
 ### console.log
-
-- [x] Postman
-- [x] insomnia
-- [x] Vscode
-- [x] SublimeText
+- Favoritos
+- [x] JavaScript
+- [x] Html-Css
+- [x] Python
+- [x] Nodejs
+- [x] Nodejs
 
 -->
 <h4 align="left">Estudante de Análise e desenvolvimento de sistemas</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-nunes-057899133/)](https://www.linkedin.com/in/samuel-nunes-057899133/)
 
-<br/>
+<h4 align="left">Favoritos</h4>
 
-
-
-<br/>
+```sh
+- [x] JavaScript
+- [x] Html-Css
+- [x] Python
+- [x] Nodejs
+- [x] Vuejs
+- [x] Quasar
+- [x] Materialize
+- [x] Bootstrap
+```
