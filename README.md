@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-nunes-057899133/)](https://www.linkedin.com/in/samuel-nunes-057899133/)
 
-<h4 align="left">Favoritos</h4>
-
+ <h6 align="left">Favoritos</h6>
+ 
 ```sh
 - [x] JavaScript
 - [x] Html-Css
