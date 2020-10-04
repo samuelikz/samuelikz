@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 - [x] Nodejs
 
 -->
-<h4 align="left">Estudante de Análise e desenvolvimento de sistemas</h4>
+#### -Estudante de Análise e desenvolvimento de sistemas
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-nunes-057899133/)](https://www.linkedin.com/in/samuel-nunes-057899133/)
 
- <h6 align="left">- Tecnologias já utilizadas</h6>
+###### -Tecnologias já utilizadas
  
 ```sh
 - [x] JavaScript
