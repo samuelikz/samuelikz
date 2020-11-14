@@ -21,7 +21,7 @@
 }
 
 body {
-  background-color: #1e90ff;
+  background: radial-gradient(circle, #35a2ff 0%, #014a88 100%)
 }
 
 div.image img {
