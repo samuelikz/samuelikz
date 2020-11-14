@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - [x] Nodejs
 - [x] Vuejs
 - [x] Quasar
-- [x] Seuqlize
+- [x] Sequelize
 - [x] Materialize
 - [x] Bootstrap
 ```
