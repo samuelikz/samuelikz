@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - [x] Nodejs
 
 -->
-#### -Estudante de Análise e desenvolvimento de sistemas
+#### - Developer | Analysis and Systems Development
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-nunes-057899133/)](https://www.linkedin.com/in/samuel-nunes-057899133/)
 
