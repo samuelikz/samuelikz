@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 - [x] Nodejs
 
 -->
-#### - Developer | Analysis and Systems Development
+#### - Estudante | Análise e Desenvolvimento de Sistemas 
+
+Leia mais em: https://guiadoestudante.abril.com.br/profissoes/analise-e-desenvolvimento-de-sistemas/
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-nunes-057899133/)](https://www.linkedin.com/in/samuel-nunes-057899133/)
 
