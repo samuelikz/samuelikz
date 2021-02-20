@@ -13,6 +13,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+###### -Tecnologias já utilizadas
+ 
+```sh
+- [x] JavaScript
+- [x] Html-Css
+- [x] Python
+- [x] SQL
+- [x] Nodejs
+- [x] Vuejs
+- [x] Quasar
+- [x] Sequelize
+- [x] Materialize
+- [x] Bootstrap
+```
+
 - [ ] Outros
 
 ### console.log
@@ -28,17 +43,4 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-nunes-057899133/)](https://www.linkedin.com/in/samuel-nunes-057899133/)
 
-###### -Tecnologias já utilizadas
- 
-```sh
-- [x] JavaScript
-- [x] Html-Css
-- [x] Python
-- [x] SQL
-- [x] Nodejs
-- [x] Vuejs
-- [x] Quasar
-- [x] Sequelize
-- [x] Materialize
-- [x] Bootstrap
-```
+
