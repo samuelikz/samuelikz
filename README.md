@@ -40,10 +40,9 @@ Here are some ideas to get you started:
 - [x] Python
 - [x] Nodejs
 - [x] Nodejs
+- [ ] ![capa github](https://github.com/samuelikz/samuelikz/blob/master/assets/img/bg.png)
 
 -->
-
-![capa github](https://github.com/samuelikz/samuelikz/blob/master/assets/img/bg.png)
 
   <table>
     <tr>
