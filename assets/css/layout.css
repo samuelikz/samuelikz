@@ -33,12 +33,15 @@ div.image img {
     height: 250px;
     -webkit-box-shadow: 9px 4px 35px -18px rgb(0 0 0 / 75%);
     -moz-box-shadow: 9px 4px 35px -18px rgba(0,0,0,0.75);
-    box-shadow: 9px 4px 35px -18px rgb(0 0 0 / 75%);
+    box-shadow: -20px 8px 35px -18px rgb(0 0 0 / 46%);
 }
 
 div.texto {
   padding: 20px;
   text-align: justify;
+  background: #ffffffb5;
+  margin: 10px;
+  border-radius: 5px;
 }
 
 .contato_lista{
