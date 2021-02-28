@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 -->
 
-  <table style="overflow:hidden;">
+  <table>
     <tr>
         <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelikz&hide=html&layout=compact&theme=dark" /></td>
         <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api?username=samuelikz&theme=dark&show_icons=true"/></td>
