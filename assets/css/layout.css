@@ -26,10 +26,14 @@ body {
 }
 
 div.image img {
-  border-radius: 50%;
-  width: 250px;
-  height: 250px;
+    border-radius: 30% 70% 64% 36% / 30% 32% 68% 70%;
+    width: 250px;
+    height: 250px;
+    -webkit-box-shadow: 9px 4px 35px -18px rgb(0 0 0 / 75%);
+    -moz-box-shadow: 9px 4px 35px -18px rgba(0,0,0,0.75);
+    box-shadow: 9px 4px 35px -18px rgb(0 0 0 / 75%);
 }
+
 div.texto {
   padding: 20px;
   text-align: justify;
