@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 - [ ] ![capa github](https://github.com/samuelikz/samuelikz/blob/master/assets/img/bg.png)
 
 -->
-<p>
+
  <img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelikz&hide=html&layout=compact&theme=dark" />
- <img width="410px" align="left" src="https://github-readme-stats.vercel.app/api?username=samuelikz&show_icons=true&theme=dark"/>
-</p>
+ <img width="410px" align="right" src="https://github-readme-stats.vercel.app/api?username=samuelikz&show_icons=true&theme=dark"/>
+
 
 
 
