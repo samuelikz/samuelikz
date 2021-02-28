@@ -55,6 +55,10 @@ div.texto {
   font-size: larger;
 }
 
+.contato_lista li a:hover{
+  color: #bb35ff;
+}
+
 @media (max-width: 700px) {
   .card {
     flex-direction: column;
