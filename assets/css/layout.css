@@ -57,6 +57,7 @@ div.texto {
 
 .contato_lista li a:hover{
   color: #bb35ff;
+  font-weight: 600;
 }
 
 @media (max-width: 700px) {
