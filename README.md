@@ -56,5 +56,6 @@ Here are some ideas to get you started:
     <img width="410px" src="https://github-readme-stats.vercel.app/api?username=samuelikz&show_icons=true&theme=dark"/>
     <br><br>
     <img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelikz&hide=html&layout=compact&theme=dark" />
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=samuelikz" alt="Samuel Nunes" /> </p>
 </p>
 
