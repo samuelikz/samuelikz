@@ -51,11 +51,13 @@ Here are some ideas to get you started:
     <a href="https://instagram.com/samuelikz"><img height="30" src="https://github.com/samuelikz/samuelikz/blob/master/assets/img/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/samuel-nunes-057899133/"><img height="30" src="https://github.com/samuelikz/samuelikz/blob/master/assets/img/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
     <a href="https://github.com/samuelikz"><img height="30" src="https://github.com/samuelikz/samuelikz/blob/master/assets/img/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
-    <a href="mailto:samuel.nds@outlook.com"><img height="30" src="https://github.com/samuelikz/samuelikz/blob/master/assets/img/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
+    <a href="mailto:samuel.nds@outlook.com"><img height="30" src="https://github.com/samuelikz/samuelikz/blob/master/assets/img/icons/envelope-square-solid.svg">
+    </a>&nbsp;&nbsp;
+ <br><br>
+    <a align="center"> <img src="https://komarev.com/ghpvc/?username=samuelikz" alt="Samuel Nunes" /> </a>
     <br><br>
     <img width="410px" src="https://github-readme-stats.vercel.app/api?username=samuelikz&show_icons=true&theme=dark"/>
     <br><br>
     <img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelikz&hide=html&layout=compact&theme=dark" />
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=samuelikz" alt="Samuel Nunes" /> </p>
 </p>
 
