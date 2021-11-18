@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <b>Links Úteis:</b><br>
-    <a href="https://samuelikz.samuelikz.vercel.app"><img height="30" src="https://github.com/samuelikz/samuelikz/blob/master/assets/img/icons/link-solid.svg"></a>&nbsp;&nbsp;
+    <a href="https://samuelikz.vercel.app/"><img height="30" src="https://github.com/samuelikz/samuelikz/blob/master/assets/img/icons/link-solid.svg"></a>&nbsp;&nbsp;
     <a href="https://instagram.com/samuelikz"><img height="30" src="https://github.com/samuelikz/samuelikz/blob/master/assets/img/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/samuel-nunes-057899133/"><img height="30" src="https://github.com/samuelikz/samuelikz/blob/master/assets/img/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
     <a href="https://github.com/samuelikz"><img height="30" src="https://github.com/samuelikz/samuelikz/blob/master/assets/img/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
