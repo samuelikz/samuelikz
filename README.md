@@ -59,5 +59,6 @@ Here are some ideas to get you started:
     <img width="410px" src="https://github-readme-stats.vercel.app/api?username=samuelikz&show_icons=true&theme=dark"/>
     <br><br>
     <img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelikz&hide=html&layout=compact&theme=dark" />
+ ![Snake animation](https://github.com/driica/driica/blob/output/github-contribution-grid-snake.svg)
 </p>
 
