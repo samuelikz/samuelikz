@@ -1,5 +1,5 @@
 
-<!--### Samuel Nunes
+
 **samuelikz/samuelikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - [x] Nodejs
 - [ ] ![capa github](https://github.com/samuelikz/samuelikz/blob/master/assets/img/bg.png)
 
--->
+
  
 
 <p align="center">
