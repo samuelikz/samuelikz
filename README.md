@@ -19,6 +19,7 @@
 ###### -Tecnologias já utilizadas
  
 ```sh
+- [x] Java
 - [x] JavaScript
 - [x] Html-Css
 - [x] Python
