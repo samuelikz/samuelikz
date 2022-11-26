@@ -35,6 +35,7 @@
 
 ### console.log
 - Favoritos
+- [x] Java
 - [x] JavaScript
 - [x] Html-Css
 - [x] Python
