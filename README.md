@@ -58,8 +58,8 @@
  <br><br>
     <a align="center"> <img src="https://komarev.com/ghpvc/?username=samuelikz" alt="Samuel Nunes" /> </a>
     <br><br>
-    <img width="410px" src="https://github-readme-stats.vercel.app/api?username=samuelikz&show_icons=true&theme=dark"/>
+    <img width="410px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samuelikz&show_icons=true&theme=dark"/>
     <br><br>
-    <img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelikz&hide=html&layout=compact&theme=dark" />
+    <img width="410px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuelikz&hide=html&layout=compact&theme=dark" />
 </p>
 
