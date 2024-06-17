@@ -15,7 +15,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-nunes-057899133/)](https://www.linkedin.com/in/samuel-nunes-057899133/) [![Site lbesson.bitbucket.org](https://img.shields.io/website?down_color=green&down_message=Online&style=flat-square&up_color=green&up_message=Samuel%20Nunes&url=https%3A%2F%2Fhttps%3A%2F%2Fimg.shields.io%2Fwebsite%3Fdown_color%3Dred%26down_message%3DOnline%26style%3Dflat-square%26up_color%3Dgreen%26up_message%3DSamuel%2520Nunes%26url%3Dsamuelikz.samuelikz.com.br)](https://samuelikz.samuelikz.com.br)
--->
+
 ###### -Tecnologias já utilizadas
  
 ```sh
