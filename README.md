@@ -47,14 +47,19 @@
 
  -->
 
-<p align="center">
-    <b>Links Úteis:</b><br>
-    <a href="https://samuelikz.com.br/"><img height="30" src="https://github.com/samuelikz/samuelikz/blob/master/assets/img/icons/link-solid.svg"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/samuelikz"><img height="30" src="https://github.com/samuelikz/samuelikz/blob/master/assets/img/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/samuel-nunes-057899133/"><img height="30" src="https://github.com/samuelikz/samuelikz/blob/master/assets/img/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
-    <a href="https://github.com/samuelikz"><img height="30" src="https://github.com/samuelikz/samuelikz/blob/master/assets/img/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
-    <a href="mailto:samuel.nds@outlook.com"><img height="30" src="https://github.com/samuelikz/samuelikz/blob/master/assets/img/icons/envelope-square-solid.svg">
-    </a>&nbsp;&nbsp;
+<<p align="center">
+  <b>Links Úteis:</b><br>
+  <a href="https://samuelikz.com.br/" target="_blank" rel="noopener">
+    <i class="fas fa-link"></i> </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/samuelikz" target="_blank" rel="noopener">
+    <i class="fab fa-instagram"></i> </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/samuel-nunes-057899133/" target="_blank" rel="noopener">
+    <i class="fab fa-linkedin"></i> </a>&nbsp;&nbsp;
+  <a href="https://github.com/samuelikz" target="_blank" rel="noopener">
+    <i class="fab fa-github"></i> </a>&nbsp;&nbsp;
+  <a href="mailto:samuel.nds@outlook.com">
+    <i class="fas fa-envelope"></i> </a>&nbsp;&nbsp;
+
  <br><br>
     <a align="center"> <img src="https://komarev.com/ghpvc/?username=samuelikz" alt="Samuel Nunes" /> </a>
     <br><br>
