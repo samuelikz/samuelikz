@@ -1,8 +1,4 @@
-
-
-**samuelikz/samuelikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
-
-## Samuel Nunes! 👋
+## Eu Sou Samuel Nunes! 👋
 
 ## 👩‍💻 Sobre min
 Formado em Análise e Desenvolvimento de Sistemas, trago dedicação contínua ao desenvolvimento de sistemas web. A busca por aprimoramento levou à maestria em linguagens e frameworks como Java, JavaScript, Node.js e React. Minha experiência abrange Front-end e Back-end. Busco desafios estimulantes, oportunidades de aprendizado e crescimento na vanguarda da Tecnologia da Informação....  
