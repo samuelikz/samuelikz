@@ -47,7 +47,7 @@
 
  -->
 
-<<p align="center">
+<p align="center">
   <b>Links Úteis:</b><br>
   <a href="https://samuelikz.com.br/" target="_blank" rel="noopener">
     <i class="fas fa-link"></i> </a>&nbsp;&nbsp;
