@@ -1,29 +1,67 @@
-## Eu Sou Samuel Nunes! 👋
+# 👋 Olá, eu sou Samuel Nunes da Silva
 
-## 👩‍💻 Sobre min
-Formado em Análise e Desenvolvimento de Sistemas, trago dedicação contínua ao desenvolvimento de sistemas web. A busca por aprimoramento levou à maestria em linguagens e frameworks como Java, JavaScript, Node.js e React. Minha experiência abrange Front-end e Back-end. Busco desafios estimulantes, oportunidades de aprendizado e crescimento na vanguarda da Tecnologia da Informação....  
-    
-### 🔗 Conecte-se comigo  
-[![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://samuelikz.com.br/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-nunes-da-silva-057899133/)
-[![twitter](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samueliikz/)  
-    
-## 🛠 Habilidades  
-Java, JavaScript, React, Php, MySql...  
-    
-## Outras seções comuns do perfil do Github
-👩‍💻 Atualmente estou trabalhando em Recife...
-    
-🧠 Atualmente estou estudando Brockchain...
+## 🚀 Desenvolvedor Full Stack | Entusiasta de Tecnologia
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=samuelikz" alt="Samuel Nunes" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Nunes-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samuel-nunes-da-silva-057899133/)
+[![GitHub](https://img.shields.io/github/followers/samuelikz?label=follow&style=social)](https://github.com/samuelikz)
 
-<p align="center">
-    <img width="410px" src="https://streak-stats.demolab.com?user=samuelikz&theme=dark&locale=pt_BR" alt="GitHub Streak">
-</p>
+### 💻 Sobre Mim
 
-<p align="center">
-  <img width="410px" height="250px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuelikz&layout=compact&bg_color=151515&border_color=FFF&title_color=FFF&text_color=FFF&" alt="Top Langs">
-</p>
+Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções inovadoras e eficientes. Minha jornada no desenvolvimento de software é movida pela curiosidade e pelo desejo constante de aprender e crescer.
+
+### 🛠️ Tecnologias e Ferramentas
+
+#### Linguagens de Programação
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js)
+
+#### Frameworks e Bibliotecas
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+
+#### Banco de Dados
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+
+#### Ferramentas de Desenvolvimento
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+
+### 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=samuelikz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelikz&layout=compact&theme=radical)
+
+### 🌟 Projetos Destacados
+
+#### [NestJS Users API](https://github.com/samuelikz/nestjs_users)
+API de gerenciamento de usuários desenvolvida com NestJS, oferecendo autenticação JWT e operações CRUD completas.
+
+#### [FinApi-Financeia](https://github.com/samuelikz/FinApi-Financeia)
+API financeira para controle de transações, contas e usuários, com funcionalidades robustas de gerenciamento financeiro.
+
+#### [DevHouse Solar](https://github.com/samuelikz/DevHouse-Solar)
+Aplicação web para gerenciamento de reservas de casas solares, focada em sustentabilidade e energia renovável.
+
+#### [Fetch User Filter](https://github.com/samuelikz/Fetch-User-Filter)
+Projeto web para busca e filtragem de usuários utilizando API externa, com interface interativa e responsiva.
+
+### 📫 Como Me Encontrar
+
+- **LinkedIn**: [Samuel Nunes da Silva](https://www.linkedin.com/in/samuel-nunes-da-silva-057899133/)
+- **Email**: samuel.estc@gmail.com
+- **GitHub**: [samuelikz](https://github.com/samuelikz)
+
+### 🎯 Objetivos Atuais
+
+- Aprimorar habilidades em desenvolvimento full-stack
+- Contribuir para projetos de código aberto
+- Explorar novas tecnologias e frameworks
+- Desenvolver soluções inovadoras que impactem positivamente a sociedade
+
+---
+
+**"Transformando linhas de código em soluções que fazem a diferença"**
