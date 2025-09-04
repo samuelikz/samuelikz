@@ -1,4 +1,5 @@
-# 👋 Olá, eu sou Samuel Nunes da Silva
+# 👋 Olá, eu sou Samuel Nunes da Silva ![Profile views](https://komarev.com/ghpvc/?username=samuelikz&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ## 🚀 Desenvolvedor Full Stack | Entusiasta de Tecnologia
 
