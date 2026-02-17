@@ -33,8 +33,11 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções inova
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats-puce-six-48.vercel.app/api?username=samuelikz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-puce-six-48.vercel.app/api/top-langs/?username=samuelikz&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats-puce-six-48.vercel.app/api?username=samuelikz&show_icons=true&theme=radical" width="300" height="300" />
+  <br><br>
+  <img src="https://github-readme-stats-puce-six-48.vercel.app/api/top-langs/?username=samuelikz&layout=compact&theme=radical" width="300" height="300" />
+</div>
 
 ### 🌟 Projetos Destacados
 
