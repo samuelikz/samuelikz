@@ -59,7 +59,7 @@ Docker · Git · Postman
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/samuel-nunes-da-silva-057899133/  
+- LinkedIn: [https://www.linkedin.com/in/samuel-nunes-da-silva-057899133/](https://www.linkedin.com/in/samuel-nunes-fullstack/)  
 - GitHub: https://github.com/samuelikz  
 
 ---
