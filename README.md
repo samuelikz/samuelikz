@@ -36,30 +36,28 @@ Tech Lead e desenvolvedor **Full Stack** apaixonado por construir sistemas **sim
 
 ## 🛠️ Stack
 
-<p align="center">
-  <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,spring&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Linguagens</b><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,cs&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Banco de dados & ORM</b><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis&theme=dark" />
-</p>
-
-<p align="center">
-  <b>DevOps & Ferramentas</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,gitlab,git,linux,rabbitmq,postman&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,spring&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Linguagens</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,cs&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Dados</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,gitlab,git,linux,rabbitmq,postman&theme=dark" /></td>
+  </tr>
+</table>
 
 ---
 
