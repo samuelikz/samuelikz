@@ -7,7 +7,7 @@
   <a href="https://github.com/samuelikz">
     <img src="https://img.shields.io/github/followers/samuelikz?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=samuelikz&style=for-the-badge&color=0e75b6&label=Profile%20views" />
+  <img src="https://komarev.com/ghpvc/?username=samuelikz&style=for-the-badge&color=0e75b6&label=VIEWS" />
 </p>
 
 <p align="center">
