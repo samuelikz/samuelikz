@@ -1,13 +1,13 @@
 # Samuel Nunes da Silva
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuel-nunes-da-silva-057899133/">
+  <a href="https://www.linkedin.com/in/samuel-nunes-fullstack/">
     <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Nunes-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/samuelikz">
     <img src="https://img.shields.io/github/followers/samuelikz?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=samuelikz&style=for-the-badge&color=0e75b6" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=samuelikz.samuelikz&left_text=Visitas&left_color=555555&right_color=0e75b6" height="28" />
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-puce-six-48.vercel.app/api?username=samuelikz&show_icons=true&theme=transparent&hide_border=true"
+    src="https://github-readme-stats-puce-six-48.vercel.app/api?username=samuelikz&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400"
     height="180"
   />
   <img
-    src="https://github-readme-stats-puce-six-48.vercel.app/api/top-langs/?username=samuelikz&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats-puce-six-48.vercel.app/api/top-langs/?username=samuelikz&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400"
     height="180"
   />
 </p>
@@ -59,8 +59,8 @@ Docker · Git · Postman
 
 ## Contato
 
-- LinkedIn: [https://www.linkedin.com/in/samuel-nunes-da-silva-057899133/](https://www.linkedin.com/in/samuel-nunes-fullstack/)  
-- GitHub: https://github.com/samuelikz  
+- LinkedIn: [linkedin.com/in/samuel-nunes-fullstack](https://www.linkedin.com/in/samuel-nunes-fullstack/)  
+- GitHub: [github.com/samuelikz](https://github.com/samuelikz)  
 
 ---
 
