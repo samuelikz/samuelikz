@@ -1,69 +1,111 @@
-# Samuel Nunes da Silva
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Samuel+%F0%9F%91%8B;Tech+Lead+%26+Full+Stack+Developer;NestJS+%C2%B7+Next.js+%C2%B7+TypeScript;DevOps+com+Docker%2C+Nomad+e+GitLab+CI" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-nunes-fullstack/">
-    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Nunes-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Nunes-0e75b6?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://samuelikz.com.br">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-samuelikz.com.br-111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/samuelikz">
-    <img src="https://img.shields.io/github/followers/samuelikz?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/samuelikz?style=for-the-badge&logo=github&color=0e75b6" />
   </a>
-  <!-- Contador desativado temporariamente (komarev instável). Para reativar, descomente a linha abaixo: -->
   <!-- <img src="https://komarev.com/ghpvc/?username=samuelikz&style=for-the-badge&color=0e75b6&label=VIEWS" /> -->
 </p>
 
+---
+
+## 👨‍💻 Sobre mim
+
+Tech Lead e desenvolvedor **Full Stack** apaixonado por construir sistemas **simples, eficientes e escaláveis** — do backend à infraestrutura.
+
+- 🧠 Especialista em Engenharia de Software (PUC Minas) com ênfase em IA
+- 🏗️ Arquitetura limpa, microsserviços e código sustentável
+- 🚀 Liderança técnica de time de inovação
+- 🐳 Pipelines CI/CD, containers e orquestração
+
+### 🔭 No momento
+
+- 🌱 Estudando **cloud** (AWS · Azure · GCP)
+- 🧩 Explorando arquiteturas de **microsserviços** com Kong e RabbitMQ
+- 🤖 Brincando com **IA local** (Ollama) em projetos pessoais
+
+---
+
+## 🛠️ Stack
+
 <p align="center">
-  Desenvolvedor <b>Full Stack</b> focado em criar soluções simples, eficientes e escaláveis.
+  <b>Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,spring&theme=dark" />
 </p>
+
+<p align="center">
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Linguagens</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,cs&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Banco de dados & ORM</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis&theme=dark" />
+</p>
+
+<p align="center">
+  <b>DevOps & Ferramentas</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,gitlab,git,linux,rabbitmq,postman&theme=dark" />
+</p>
+
+---
+
+## 📊 Estatísticas
 
 <p align="center">
   <img
     src="https://github-readme-stats-puce-six-48.vercel.app/api?username=samuelikz&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400"
-    height="180"
+    height="170"
   />
   <img
     src="https://github-readme-stats-puce-six-48.vercel.app/api/top-langs/?username=samuelikz&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400"
-    height="180"
+    height="170"
   />
 </p>
 
 ---
 
-## Sobre
+## 🚀 Projetos em destaque
 
-Desenvolvedor dedicado à criação de aplicações web **modernas, performáticas e escaláveis**.
-
-Tenho foco em:
-
-- Arquitetura limpa e código sustentável  
-- Boas práticas e organização de projetos  
-- Performance e experiência do usuário  
-- Evolução contínua como engenheiro de software  
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**samuelikz.com.br**](https://samuelikz.com.br) | Site pessoal com CMS próprio, painel admin e API REST | Next.js · TypeScript |
+| **print-engine** | Microsserviço de impressão térmica com Clean Architecture | NestJS · TypeScript |
+| **mail-engine** | Microsserviço de envio de e-mails, desenvolvido SDD-first | NestJS · TypeScript |
 
 ---
 
-## Stack principal
+## 🐍 Contribuições
 
-**Backend**  
-Node.js · NestJS · Express  
-
-**Frontend**  
-React  
-
-**Linguagens**  
-JavaScript · TypeScript  
-
-**Banco de dados**  
-PostgreSQL · MongoDB  
-
-**Ferramentas**  
-Docker · Git · Postman  
-
-## Contato
-
-- LinkedIn: [linkedin.com/in/samuel-nunes-fullstack](https://www.linkedin.com/in/samuel-nunes-fullstack/)  
-- GitHub: [github.com/samuelikz](https://github.com/samuelikz)  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelikz/samuelikz/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/samuelikz/samuelikz/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-nunes-fullstack/">LinkedIn</a> ·
+  <a href="https://samuelikz.com.br">Portfólio</a> ·
+  <a href="https://github.com/samuelikz">GitHub</a>
+</p>
 
 <p align="center">
   <i>Transformando linhas de código em soluções que fazem a diferença.</i>
