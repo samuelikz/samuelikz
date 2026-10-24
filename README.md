@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/samuel-nunes-fullstack/">
     <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Nunes-0e75b6?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://samuelikz.com.br">
+  <a href="[https://samuelikz.com.br](https://a.aioher.com/samuel)">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-samuelikz.com.br-111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/samuelikz">
